@@ -16,7 +16,7 @@
     {
       "name": "adventure",
       "label": "the-island-of-adventure-pf2e",
-      "path": "/packs/adventure.db",
+      "path": "/packs/the-island-of-adventure-pf2e.db",
       "entity": "Adventure",
       "type": "Adventure",
       "system": "pf2e"
