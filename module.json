@@ -1,8 +1,8 @@
 {
-  "id": "the-island-adventure",
-  "title": "the-island-adventure",
-  "description": "the-island-adventure",
-  "version": "1.1.0",
+  "id": "the-island-of-adventure-pf2e",
+  "title": "The Island of Adventure PF2e",
+  "description": "the-island-of-adventure-pf2e",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "12"
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "the-island-adventure-adventure",
+      "label": "the-island-of-adventure-pf2e",
       "path": "/packs/adventure.db",
       "entity": "Adventure",
       "type": "Adventure",
-      "system": "dnd5e"
+      "system": "pf2e"
     }
   ],
-  "url": "https://github.com/mccaffertyt/the-island-adventure",
-  "manifest": "https://raw.githubusercontent.com/mccaffertyt/the-island-adventure/main/module.json",
-  "download": "https://github.com/mccaffertyt/the-island-adventure/raw/main/the-island-adventure.zip",
+  "url": "https://github.com/mccaffertyt/the-island-of-adventure-pf2e",
+  "manifest": "https://raw.githubusercontent.com/mccaffertyt/the-island-of-adventure-pf2e/main/module.json",
+  "download": "https://github.com/mccaffertyt/the-island-adventure/raw/main/the-island-of-adventure-pf2e.zip",
   "manifestPlusVersion": "1.2.0"
 }
