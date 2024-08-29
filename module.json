@@ -1,7 +1,7 @@
 {
   "id": "the-island-of-adventure-pf2e",
   "title": "The Island of Adventure PF2e",
-  "description": "the-island-of-adventure-pf2e",
+  "description": "The Island of Adventure for PF2e",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -24,6 +24,6 @@
   ],
   "url": "https://github.com/mccaffertyt/the-island-of-adventure-pf2e",
   "manifest": "https://raw.githubusercontent.com/mccaffertyt/the-island-of-adventure-pf2e/main/module.json",
-  "download": "https://github.com/mccaffertyt/the-island-adventure/raw/main/the-island-of-adventure-pf2e.zip",
+  "download": "https://github.com/mccaffertyt/the-island-of-adventure-pf2e/raw/main/the-island-of-adventure-pf2e.zip",
   "manifestPlusVersion": "1.2.0"
 }
