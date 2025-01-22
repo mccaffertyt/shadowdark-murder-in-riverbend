@@ -1,7 +1,7 @@
 {
-  "id": "the-island-of-adventure-pf2e",
-  "title": "The Island of Adventure PF2e",
-  "description": "The Island of Adventure for PF2e",
+  "id": "the-island-of-adventure-sd",
+  "title": "The Island of Adventure SD",
+  "description": "The Island of Adventure for Shadowdark",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "the-island-of-adventure-pf2e",
-      "path": "/packs/the-island-of-adventure-pf2e.db",
+      "label": "the-island-of-adventure-sd",
+      "path": "/packs/the-island-of-adventure-sd.db",
       "entity": "Adventure",
       "type": "Adventure",
-      "system": "pf2e"
+      "system": "shadowdark"
     }
   ],
-  "url": "https://github.com/mccaffertyt/the-island-of-adventure-pf2e",
-  "manifest": "https://raw.githubusercontent.com/mccaffertyt/the-island-of-adventure-pf2e/main/module.json",
-  "download": "https://github.com/mccaffertyt/the-island-of-adventure-pf2e/raw/main/the-island-of-adventure-pf2e.zip",
+  "url": "https://github.com/mccaffertyt/the-island-of-adventure-sd",
+  "manifest": "https://raw.githubusercontent.com/mccaffertyt/the-island-of-adventure-sd/main/module.json",
+  "download": "https://github.com/mccaffertyt/the-island-of-adventure-sd/raw/main/the-island-of-adventure-sd.zip",
   "manifestPlusVersion": "1.2.0"
 }
