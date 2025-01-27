@@ -1,7 +1,7 @@
 {
-  "id": "the-island-of-adventure-sd",
-  "title": "The Island of Adventure SD",
-  "description": "The Island of Adventure for Shadowdark",
+  "id": "shadowdark-murder-in-riverbend",
+  "title": "Shadowdark Murder in Riverbend",
+  "description": "Murder in Riverbend Adventure for Shadowdark",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
@@ -15,15 +15,15 @@
   "packs": [
     {
       "name": "adventure",
-      "label": "the-island-of-adventure-sd",
-      "path": "/packs/the-island-of-adventure-sd.db",
+      "label": "shadowdark-murder-in-riverbend",
+      "path": "/packs/shadowdark-murder-in-riverbend.db",
       "entity": "Adventure",
       "type": "Adventure",
       "system": "shadowdark"
     }
   ],
-  "url": "https://github.com/mccaffertyt/the-island-of-adventure-sd",
-  "manifest": "https://raw.githubusercontent.com/mccaffertyt/the-island-of-adventure-sd/main/module.json",
-  "download": "https://github.com/mccaffertyt/the-island-of-adventure-sd/raw/main/the-island-of-adventure-sd.zip",
+  "url": "https://github.com/mccaffertyt/shadowdark-murder-in-riverbend",
+  "manifest": "https://raw.githubusercontent.com/mccaffertyt/shadowdark-murder-in-riverbend/main/module.json",
+  "download": "https://github.com/mccaffertyt/shadowdark-murder-in-riverbend/raw/main/shadowdark-murder-in-riverbend.zip",
   "manifestPlusVersion": "1.2.0"
 }
